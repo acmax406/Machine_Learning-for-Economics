@@ -1,4 +1,3 @@
-# Machine_Learning-for-Economics
 # probability
 
 <b>Sample space</b>
